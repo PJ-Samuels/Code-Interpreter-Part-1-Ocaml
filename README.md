@@ -1,4 +1,4 @@
-# interpreter-part-1
+# Interpreter-Part-1 Summary
 Interpreter Assignmnent Functionality and Parameters
 
 1.1 Functionality
